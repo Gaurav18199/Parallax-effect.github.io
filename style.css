@@ -22,12 +22,12 @@ body, html{
 }
 .pimg2{
     background-image:url(img-2.jpg) ;
-    min-height: 90%;
+    min-height: 50%;
     background-size: cover
 }
 .pimg3{
     background-image:url(img-3.jpg) ;
-    min-height: 90%;
+    min-height: 50%;
     background-size: cover
 }
 
@@ -57,7 +57,7 @@ body, html{
 }
 
 .b1{
-    opacity: 100px;
+    opacity: 80%;
     background-color: #111;
     color: #fff;
     padding: 20px;
